@@ -1,0 +1,6 @@
+*.project
+*.settings
+*.class
+
+git add.
+
